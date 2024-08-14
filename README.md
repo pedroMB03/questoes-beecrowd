@@ -1,0 +1,1 @@
+Essse repositório serve para colocar as resoluções das questões do site Beecrowd, podendo ser questões de diversos tipos de lingugens de programação. Tenho o intuito de fazer tal repositório como o objetivo de melhorar minhas habilidades tanto programacionais, quanto com o uso do git e github.
